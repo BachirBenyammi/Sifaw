@@ -1,0 +1,46 @@
+body {
+	SCROLLBAR-FACE-COLOR: #8a8b8c;
+	SCROLLBAR-HIGHLIGHT-COLOR: #8a8b8c;
+	SCROLLBAR-SHADOW-COLOR: #8a8b8c;
+	SCROLLBAR-3DLIGHT-COLOR: #000000;
+	SCROLLBAR-ARROW-COLOR: #dddddd;
+	SCROLLBAR-TRACK-COLOR: #dddddd;
+	SCROLLBAR-DARKSHADOW-COLOR: #000000;
+	margin-top:0;
+	text-decoration : none;
+	font-family : Verdana;
+	font-size : 12;
+	font-weight : bold;
+	background-color : Black;
+}
+.lien {
+	position: relative;
+	top: -5px;
+	letter-spacing: -1pt;
+	text-decoration : none;
+	font-family : Verdana;
+	font-size : 12;
+	font-weight : bold;
+	color : White;
+}
+.divise {
+    position: relative; 
+	op: -3px; 
+	color: #C0C0C0; 
+	font-size: 12pt;
+}
+input {
+    border: 1px #333366 solid
+}
+textarea {
+    border: 1px #333366 solid
+}
+th{
+	background-color : #808080;
+	font-weight : bolder;
+	text-align : center;
+}
+
+td{
+	background-color : #D8D0C8;
+}

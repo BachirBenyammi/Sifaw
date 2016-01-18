@@ -1,0 +1,36 @@
+.skin0
+{
+	BORDER-RIGHT: black 2px solid;
+	BORDER-TOP: black 2px solid;
+	VISIBILITY: hidden;
+	BORDER-LEFT: black 2px solid;
+	WIDTH: 200px;
+	CURSOR: default;
+	LINE-HEIGHT: 20px;
+	BORDER-BOTTOM: black 2px solid;
+	FONT-FAMILY: Verdana;
+	POSITION: absolute;
+	BACKGROUND-COLOR: menu;
+}
+
+.skin1
+{
+	BORDER-RIGHT: buttonhighlight 2px outset;
+	BORDER-TOP: buttonhighlight 2px outset;
+	FONT-SIZE: 12px;
+	VISIBILITY: hidden;
+	BORDER-LEFT: buttonhighlight 2px outset;
+	WIDTH: 145px;
+	CURSOR: default;
+	COLOR: black;
+	BORDER-BOTTOM: buttonhighlight 2px outset;
+	FONT-FAMILY: Verdana,Geneva, Arial;
+	POSITION: absolute;
+	BACKGROUND-COLOR: menu;
+}
+
+.menuitems
+{
+PADDING-RIGHT: 10px;
+PADDING-LEFT: 3px
+}
